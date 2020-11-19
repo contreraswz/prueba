@@ -1,1 +1,3 @@
 comenzando el archivo de hiztoria
+
+otro cambio para probar el git checkout 2
