@@ -2,5 +2,19 @@ body{
     text-align: center;
     font-family: cursive;
     font-size: xx-large;
-    color: blue;
+    color:pink;
+    margin: 0;
+    padding: 0cm;
+}
+    #container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid #dddddd;
+    margin: 0 auto;
+}    
+
+#container h1{
+    font-size: 20px;
+
 }
