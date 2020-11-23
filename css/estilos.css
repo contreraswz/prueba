@@ -6,6 +6,14 @@ body{
     margin: 0;
     padding: 0cm;
 }
+#cabecera{
+    background-color: gold ;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: green;
+    font-weight: bold;
+}
+
     #container{
     width: 70%;
     padding: 1em;
