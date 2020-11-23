@@ -1,6 +1,28 @@
 body{
-    text-align: center;
+    text-align: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
-    color: blue;
+    color:pink;
+    margin: 0;
+    padding: 0cm;
+}
+#cabecera{
+    background-color: gold ;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: green;
+    font-weight: bold;
+}
+
+    #container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid #dddddd;
+    margin: 0 auto;
+}    
+
+#container h1{
+    font-size: 20px;
+
 }
